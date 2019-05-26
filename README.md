@@ -73,7 +73,7 @@ ConceptPrevalence::calculate (
 				 
 				 )
 				 
-## Once results are ready please send them to ao2671@cumc.columbia.edu				 
+## Once the results are ready please send them to ao2671@cumc.columbia.edu				 
                                                          
 License
 =======
