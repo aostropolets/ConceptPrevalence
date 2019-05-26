@@ -72,6 +72,8 @@ ConceptPrevalence::calculate (
 				 resultDatabaseSchema
 				 
 				 )
+				 
+## Once results are ready please send them to ao2671@cumc.columbia.edu				 
                                                          
 License
 =======
